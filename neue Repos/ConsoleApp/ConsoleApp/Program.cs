@@ -7,7 +7,7 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            System.Console.WriteLine("hallo gitHub");
+            System.Console.WriteLine("hallo gitHub!!");
         }
     }
 }
